@@ -1,8 +1,18 @@
 # Image-based-Diabetic-Retinopathy
-#introduction
+
 Diabetic retinopathy is one of the most common complications of diabetes. 
 It can develop in people with both type 1 and type 2 diabetes, and usually affects both eyes.
 People with retinopathy have damaged blood vessels in their retina - the light-sensitive layer at the back of the eyes.
+
+
+
+![healthy](https://github.com/nupur0294/Image-based-Diabetic-Retinopathy/blob/master/nosymptoms__10_left.jpeg)
+
+
+![affected](https://github.com/nupur0294/Image-based-Diabetic-Retinopathy/blob/master/symptoms_10297_left.jpeg)
+
+
+
 
 
 
